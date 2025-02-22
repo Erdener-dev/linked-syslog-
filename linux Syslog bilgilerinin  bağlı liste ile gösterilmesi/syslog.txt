@@ -1,0 +1,4 @@
+[2025-02-22 18:29:39] Hata: Dosya bulunamadi!
+[2025-02-22 18:29:39] Veritabani baglantisi kuruldu.
+[2025-02-22 18:29:39] Kullanici giris yapti.
+[2025-02-22 18:29:39] Sistem baslatildi.
